@@ -1,0 +1,12 @@
+{
+    "Anexo" : {
+        "BlobPath" : "string",
+        "CreatedAt" : "date",
+        "User" : "User"
+    },
+    "User" : {
+        "Name" : "string",
+        "Surname" : "string",
+        "Age" : "integer"
+    }
+}
